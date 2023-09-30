@@ -1,4 +1,4 @@
-// Lior Poterman: 315368035, Abo Rabia Rami: 314820135
+
 const router = require("express").Router();
 
 // handle the valid route by returning positive status (200)
