@@ -1,4 +1,4 @@
-// Lior Poterman: 315368035, Abo Rabia Rami: 314820135
+
 // * packages used: express
 const express = require("express");
 
